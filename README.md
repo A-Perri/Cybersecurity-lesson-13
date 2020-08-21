@@ -1,6 +1,3 @@
-# Cybersecurity-lesson-13
-Cloud security Ansible YAML scripts, Bash scripts from Linux, and Network diagrams 
-
 ANSIBLE TAML scripts
 ---
 - name: Config Web VM with Docker
@@ -2166,5 +2163,3 @@ logging.files:
     command: service filebeat start 
        
  BASH SCRIPT IN LINUX
- 
- 
