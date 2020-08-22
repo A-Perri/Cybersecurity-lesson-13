@@ -1,4 +1,4 @@
-ANSIBLE TAML scripts
+ANSIBLE YAML scripts
 ---
 - name: Config Web VM with Docker
  hosts: webservers
